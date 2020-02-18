@@ -20,8 +20,6 @@ export class ServersComponent implements OnInit {
 
   onReload() {
     // this.router.navigate(['servers'], {relativeTo: this.route});
-
-    // START HERE WHEN YOU COME BACK
   }
 
 }
